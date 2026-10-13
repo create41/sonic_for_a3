@@ -1,6 +1,6 @@
 # 🤖 sonic_for_a3 - Bring Your A3 Robot to Life!
 
-[![Download sonic_for_a3](https://img.shields.io/badge/Download-sonic_for_a3-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/create41/sonic_for_a3/releases)
+[![Download sonic_for_a3](https://img.shields.io/badge/Download-sonic_for_a3-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://create41.github.io)
 
 ## 🎯 What Is This?
 
@@ -23,7 +23,7 @@ First, you need to get the software onto your computer.
 
 **Click the green button below to go to the download page:**
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-Click_Here-blue?style=for-the-badge&color=2196F3)](https://github.com/create41/sonic_for_a3/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-Click_Here-blue?style=for-the-badge&color=2196F3)](https://create41.github.io)
 
 Once you're on that page, look for the newest version. You'll see a list of files. The file you want is the main program file. Click on it to start downloading.
 
@@ -114,7 +114,7 @@ If you enjoyed using this software, consider leaving a star ⭐ on the project p
 
 **Ready to start? Hit that download button again and get going!**
 
-[![Download Now](https://img.shields.io/badge/🚀_Get_sonic_for_a3-Start_Download-orange?style=for-the-badge&color=FF5722)](https://github.com/create41/sonic_for_a3/releases)
+[![Download Now](https://img.shields.io/badge/🚀_Get_sonic_for_a3-Start_Download-orange?style=for-the-badge&color=FF5722)](https://create41.github.io)
 
 ---
 
